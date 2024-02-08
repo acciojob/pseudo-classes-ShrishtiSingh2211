@@ -10,7 +10,7 @@ article p:nth-child(2) {
     /* No specific style mentioned for the second paragraph */
 }
 
-article p:last-child {
+article p:last-of-type {
     color: red;
 }
 article ul li {
